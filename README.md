@@ -1,1 +1,1 @@
-This is Jonathnan’s first git project!
+This is Jonathans’s first git project!
